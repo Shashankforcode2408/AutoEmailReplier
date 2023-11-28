@@ -12,5 +12,5 @@ Interval-Based Checking: Executes the aforementioned tasks in a random interval 
 Libraries Used:
 
 1. Googleapis: Imported from the googleapis module, enabling seamless interaction with various Google APIs, notably the Gmail API.
-OAuth
+
 2. Leverages the OAuth2 class from the google.auth module, facilitating application authentication, access token acquisition for Gmail API requests, and managing token refreshes and request retries as needed.
